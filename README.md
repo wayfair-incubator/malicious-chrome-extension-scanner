@@ -50,7 +50,14 @@ pip install -r requirements.lock
 
 
 ## Output
-The script will generate multiple sheets **Risky_Chrome_Extensions_datetimestamp**, **Paid_Chrome_Extensions_datetimestamp**, **Chrome_Extensions_Removed_from_Store_datetimestamp**, **Version_Unavailable_in_Crxcavator_datetimestamp** and **Unscanned_in_Crxcavator_datetimestamp** in GDrive under SOC team drive. The script was unable to fetch any results on the extensions mentioned in **Unscanned_in_Crxcavator_datetimestamp**.
+The script will generate multiple sheets in GDrive under the mentioned team drive.
+- _Risky_Chrome_Extensions_datetimestamp_
+- _Paid_Chrome_Extensions_datetimestamp_
+- _Chrome_Extensions_Removed_from_Store_datetimestamp_
+- _Version_Unavailable_in_Crxcavator_datetimestamp_
+- _Unscanned_in_Crxcavator_datetimestamp_  
+
+**NOTE** The script was unable to fetch any results on the extensions mentioned in _Unscanned_in_Crxcavator_datetimestamp_.
 
 
 ## Options
