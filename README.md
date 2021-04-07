@@ -98,8 +98,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
 ## License
-Malicious Chrome Extension Scanner is licensed under 2-clause BSD License
-See [LICENSE](LICENSE.md) for details.
+Malicious Chrome Extension Scanner is licensed under MIT License
+See [LICENSE.md](LICENSE.md) for details.
 
 
 ## Release of new version
